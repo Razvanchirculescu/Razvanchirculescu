@@ -12,4 +12,4 @@ Feel free to explore my projects and to use any code or resources that you find 
 
 Thank you for visiting my GitHub repository and I hope you'll find something here that inspires you to create and innovate!
 
-⚡ Fun fact: If I were to be a snake, I'd probably be a Python!
+⚡ Fun fact: I like dark mode because light attracts bugs!
